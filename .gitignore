@@ -1,8 +1,11 @@
 # Credentials
 credentials/*.json
 
-# Content
+# Content data
 content.json
+
+# Content folder
+content/*.png
 
 # Logs
 logs
