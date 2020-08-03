@@ -1,6 +1,9 @@
 # Credentials
 credentials/*.json
 
+# Content
+content.json
+
 # Logs
 logs
 *.log
