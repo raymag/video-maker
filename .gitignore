@@ -1,4 +1,5 @@
-credentials/
+# Credentials
+credentials/*.json
 
 # Logs
 logs
